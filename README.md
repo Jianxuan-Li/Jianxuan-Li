@@ -5,6 +5,5 @@ Jack, a software developer. Mainly focus on full-stack development, and also hav
 Links:
 
 * [Blog](https://freeyeti.net)
-* [Profilo](https://jianxuan.li)
 * [Antarctic Map](https://antarctic.freeyeti.net/)
 * [Yeti-English](https://yetien.com)
