@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jack, a software developer. Mainly focus on full-stack development, and also have some experience in GIS.
+Meet Jack, a software sorcerer skilled in the mystical arts of full-stack development and GIS wizardry, conjuring code with a dash of humor and a sprinkle of pixel magic.
 
 Links:
 
