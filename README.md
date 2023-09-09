@@ -9,5 +9,4 @@ Links:
 * [Antarctic Map](https://antarctic.freeyeti.net/)
 * [Yeti-English](https://yetien.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jianxuan-Li&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=donut)
