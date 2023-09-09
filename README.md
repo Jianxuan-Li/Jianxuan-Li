@@ -8,5 +8,3 @@ Links:
 * [jianxuan.li](https://jianxuan.li)
 * [Antarctic Map](https://antarctic.freeyeti.net/)
 * [Yeti-English](https://yetien.com)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=donut)
