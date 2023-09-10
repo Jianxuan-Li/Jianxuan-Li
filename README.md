@@ -4,9 +4,6 @@ Meet Jack, a software sorcerer skilled in the mystical arts of full-stack develo
 
 Links:
 
-* [Blog](https://freeyeti.net)
-* [jianxuan.li](https://jianxuan.li)
-* [Antarctic Map](https://antarctic.freeyeti.net/)
-* [Yeti-English](https://yetien.com)
+[Blog](https://freeyeti.net) | [jianxuan.li](https://jianxuan.li)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=compact&theme=graywhite&hide=jupyter%20notebook,PLpgSQL,javascript)
