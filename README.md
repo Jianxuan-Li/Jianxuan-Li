@@ -6,4 +6,4 @@ Links:
 
 [Blog](https://freeyeti.net) | [jianxuan.li](https://jianxuan.li)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=compact&theme=graywhite&hide=jupyter%20notebook,PLpgSQL,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=compact&theme=graywhite&hide=jupyter%20notebook,PLpgSQL,javascript,Dockerfile,PHP,HTML,CSS,Shell)
