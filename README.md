@@ -11,5 +11,5 @@ Links:
 </picture>
 
 <picture>
-  <img alt="Visits" src="https://freeyeti.net/backend/ghstat/v1/s.png">
+  <img alt="Visits" src="https://freeyeti.net/backend/ghstat/v1/s?r=1">
 </picture>
