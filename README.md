@@ -9,7 +9,3 @@ Links:
 <picture>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianxuan-Li&layout=compact&theme=graywhite&hide=jupyter%20notebook,PLpgSQL,javascript,Dockerfile,PHP,HTML,CSS,Shell">
 </picture>
-
-<picture>
-  <img alt="Visits" src="https://freeyeti.net/backend/ghstat/v1/s?r=1">
-</picture>
